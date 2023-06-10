@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Name of two audio devices with the same name
-device_name="INZONE H9 / INZONE H7"
+device_name="YOUR DEVICE NAME"
 # Maximum number of attempts
 max_attempts=5
 
